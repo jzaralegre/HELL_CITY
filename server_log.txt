@@ -1,0 +1,223 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:31:38] password = ""  (string)
+[03:31:38] 
+[03:31:38] Server Plugins
+[03:31:38] --------------
+[03:31:38]  Loading plugin: crashdetect.so
+[03:31:38]   CrashDetect plugin 4.19.4
+[03:31:38]   Loaded.
+[03:31:38]  Loading plugin: whirlpool.so
+[03:31:38]  
+[03:31:38]  ==================
+[03:31:38]  
+[03:31:38]   Whirlpool loaded
+[03:31:38]  
+[03:31:38]  ==================
+[03:31:38]  
+[03:31:38]   Loaded.
+[03:31:38]  Loading plugin: pawncmd.so
+[03:31:38] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[03:31:38]   Loaded.
+[03:31:38]  Loading plugin: SKY.so
+[03:31:38]   Failed (/lib/libstdc++.so.6: version `GLIBCXX_3.4.21' not found (required by plugins/SKY.so))
+[03:31:38]  Loading plugin: sscanf.so
+[03:31:38] 
+
+[03:31:38]  ===============================
+
+[03:31:38]       sscanf plugin loaded.     
+
+[03:31:38]          Version:  2.8.3        
+
+[03:31:38]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:31:38]  ===============================
+
+[03:31:38]   Loaded.
+[03:31:38]  Loading plugin: streamer.so
+[03:31:38] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[03:31:38]   Loaded.
+[03:31:38]  Loading plugin: mysql_static.so
+[03:31:38]  >> plugin.mysql: R39-6 successfully loaded.
+[03:31:38]   Loaded.
+[03:31:38]  Loading plugin: nativechecker.so
+[03:31:38]   Loaded.
+[03:31:38]  Loaded 7 plugins.
+
+[03:31:38] 
+[03:31:38] Ban list
+[03:31:38] --------
+[03:31:38]  Loaded: samp.ban
+[03:31:38] 
+[03:31:38] 
+[03:31:38] Filterscripts
+[03:31:38] ---------------
+[03:31:38]   Loading filterscript 'plrpmap.amx'...
+[03:31:38]   Loading filterscript 'Mansion.amx'...
+[03:31:38]   Loading filterscript 'Anti-VPN.amx'...
+[03:31:38] 
+--------------------------------------
+[03:31:38]         Anti VPN by Phillip         
+[03:31:38] --------------------------------------
+
+[03:31:38]   Loading filterscript 'RandomMessage.amx'...
+[03:31:38] <|---------------------------[Loaded]---------------------------|>
+[03:31:38]  | Simple Random Messages System By Phillip |
+[03:31:38] <|---------------------------[Loaded]---------------------------|>
+[03:31:38]   Loading filterscript 'Weaponholder.amx'...
+[03:31:38]   Loaded 5 filterscripts.
+
+[03:31:38] [Pawn.CMD] AmxLoad: mismatch between the plugin and include versions
+[03:31:38]    Error: Function not registered: 'FreezeSyncData'
+[03:31:38]    Error: Function not registered: 'SetFakeFacingAngle'
+[03:31:38]    Error: Function not registered: 'SendLastSyncData'
+[03:31:38]    Error: Function not registered: 'ClearAnimationsForPlayer'
+[03:31:38]    Error: Function not registered: 'SetKnifeSync'
+[03:31:38]    Error: Function not registered: 'SetFakeHealth'
+[03:31:38]    Error: Function not registered: 'SetFakeArmour'
+[03:31:38]    Error: Function not registered: 'PlayerTextDrawSetPosition'
+[03:31:38]    Error: Function not registered: 'SpawnPlayerForWorld'
+[03:31:38] [debug] Run time error 19: "File or function is not found"
+[03:31:38] [debug]  FreezeSyncData
+[03:31:38] [debug]  SetFakeFacingAngle
+[03:31:38] [debug]  SendLastSyncData
+[03:31:38] [debug]  ClearAnimationsForPlayer
+[03:31:38] [debug]  SetKnifeSync
+[03:31:38] [debug]  SetFakeHealth
+[03:31:38] [debug]  SetFakeArmour
+[03:31:38] [debug]  PlayerTextDrawSetPosition
+[03:31:38] [debug]  SpawnPlayerForWorld
+[03:31:38] [debug] Run time error 19: "File or function is not found"
+[03:31:38] [debug]  FreezeSyncData
+[03:31:38] [debug]  SetFakeFacingAngle
+[03:31:38] [debug]  SendLastSyncData
+[03:31:38] [debug]  ClearAnimationsForPlayer
+[03:31:38] [debug]  SetKnifeSync
+[03:31:38] [debug]  SetFakeHealth
+[03:31:38] [debug]  SetFakeArmour
+[03:31:38] [debug]  PlayerTextDrawSetPosition
+[03:31:38] [debug]  SpawnPlayerForWorld
+[03:31:38] Script[gamemodes/AZ-RP.amx]: Run time error 19: "File or function is not found"
+[03:31:38] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:36:24] password = ""  (string)
+[03:36:24] 
+[03:36:24] Server Plugins
+[03:36:24] --------------
+[03:36:24]  Loading plugin: crashdetect.so
+[03:36:24]   CrashDetect plugin 4.19.4
+[03:36:24]   Loaded.
+[03:36:24]  Loading plugin: whirlpool.so
+[03:36:24]  
+[03:36:24]  ==================
+[03:36:24]  
+[03:36:24]   Whirlpool loaded
+[03:36:24]  
+[03:36:24]  ==================
+[03:36:24]  
+[03:36:24]   Loaded.
+[03:36:24]  Loading plugin: pawncmd.so
+[03:36:24] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[03:36:24]   Loaded.
+[03:36:24]  Loading plugin: SKY.so
+[03:36:24]   Failed (/lib/libstdc++.so.6: version `GLIBCXX_3.4.21' not found (required by plugins/SKY.so))
+[03:36:24]  Loading plugin: sscanf.so
+[03:36:24] 
+
+[03:36:24]  ===============================
+
+[03:36:24]       sscanf plugin loaded.     
+
+[03:36:24]          Version:  2.8.3        
+
+[03:36:24]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:36:24]  ===============================
+
+[03:36:24]   Loaded.
+[03:36:24]  Loading plugin: streamer.so
+[03:36:24] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[03:36:24]   Loaded.
+[03:36:24]  Loading plugin: mysql_static.so
+[03:36:24]  >> plugin.mysql: R39-6 successfully loaded.
+[03:36:24]   Loaded.
+[03:36:24]  Loading plugin: nativechecker.so
+[03:36:24]   Loaded.
+[03:36:24]  Loaded 7 plugins.
+
+[03:36:24] 
+[03:36:24] Ban list
+[03:36:24] --------
+[03:36:24]  Loaded: samp.ban
+[03:36:24] 
+[03:36:24] 
+[03:36:24] Filterscripts
+[03:36:24] ---------------
+[03:36:24]   Loading filterscript 'plrpmap.amx'...
+[03:36:24]   Loading filterscript 'Mansion.amx'...
+[03:36:24]   Loading filterscript 'Anti-VPN.amx'...
+[03:36:24] 
+--------------------------------------
+[03:36:24]         Anti VPN by Phillip         
+[03:36:24] --------------------------------------
+
+[03:36:24]   Loading filterscript 'RandomMessage.amx'...
+[03:36:24] <|---------------------------[Loaded]---------------------------|>
+[03:36:24]  | Simple Random Messages System By Phillip |
+[03:36:24] <|---------------------------[Loaded]---------------------------|>
+[03:36:24]   Loaded 4 filterscripts.
+
+[03:36:24] [Pawn.CMD] AmxLoad: mismatch between the plugin and include versions
+[03:36:24]    Error: Function not registered: 'FreezeSyncData'
+[03:36:24]    Error: Function not registered: 'SetFakeFacingAngle'
+[03:36:24]    Error: Function not registered: 'SendLastSyncData'
+[03:36:24]    Error: Function not registered: 'ClearAnimationsForPlayer'
+[03:36:24]    Error: Function not registered: 'SetKnifeSync'
+[03:36:24]    Error: Function not registered: 'SetFakeHealth'
+[03:36:24]    Error: Function not registered: 'SetFakeArmour'
+[03:36:24]    Error: Function not registered: 'PlayerTextDrawSetPosition'
+[03:36:24]    Error: Function not registered: 'SpawnPlayerForWorld'
+[03:36:24] [debug] Run time error 19: "File or function is not found"
+[03:36:24] [debug]  FreezeSyncData
+[03:36:24] [debug]  SetFakeFacingAngle
+[03:36:24] [debug]  SendLastSyncData
+[03:36:24] [debug]  ClearAnimationsForPlayer
+[03:36:24] [debug]  SetKnifeSync
+[03:36:24] [debug]  SetFakeHealth
+[03:36:24] [debug]  SetFakeArmour
+[03:36:24] [debug]  PlayerTextDrawSetPosition
+[03:36:24] [debug]  SpawnPlayerForWorld
+[03:36:24] [debug] Run time error 19: "File or function is not found"
+[03:36:24] [debug]  FreezeSyncData
+[03:36:24] [debug]  SetFakeFacingAngle
+[03:36:24] [debug]  SendLastSyncData
+[03:36:24] [debug]  ClearAnimationsForPlayer
+[03:36:24] [debug]  SetKnifeSync
+[03:36:24] [debug]  SetFakeHealth
+[03:36:24] [debug]  SetFakeArmour
+[03:36:24] [debug]  PlayerTextDrawSetPosition
+[03:36:24] [debug]  SpawnPlayerForWorld
+[03:36:24] Script[gamemodes/AZ-RP.amx]: Run time error 19: "File or function is not found"
+[03:36:24] Number of vehicle models: 0

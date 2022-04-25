@@ -1,0 +1,25 @@
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(33848) : ïðåäóïðåæäåíèå 211: âîçìîæíî íåïðåäíàìåðåííîå ïðèñâàèâàíèå
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(35946) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(49949) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(50001) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(50053) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(50105) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(50157) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(50209) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(52228) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(52236) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(52244) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(52252) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(52260) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(52268) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(58602) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "text"
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(59608) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(59609) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(59610) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(79984) : ïðåäóïðåæäåíèå 209: ôóíêöèÿ "pc_cmd_gangs" äîëæíà âîçâðàùàòü çíà÷åíèå
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(524) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "RefundSys"
+C:\Users\LUCIFER\Desktop\Project Server\SAN ANDREAS ROLEPLAY\gamemodes\SARP.pwn(2024) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "weaponModelIDs"
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
+
+
+Ïðåäóïðåæäåíèé:11.
